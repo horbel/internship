@@ -1,0 +1,6 @@
+C:\Alex\docs\day5  - patterns\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Alex\docs\day5  - patterns\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Alex\docs\day5  - patterns\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Alex\docs\day5  - patterns\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Alex\docs\day5  - patterns\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Alex\docs\day5  - patterns\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb

@@ -1,0 +1,6 @@
+C:\Alex\docs\day5  - patterns\Chain\Chain\bin\Debug\Chain.exe.config
+C:\Alex\docs\day5  - patterns\Chain\Chain\bin\Debug\Chain.exe
+C:\Alex\docs\day5  - patterns\Chain\Chain\bin\Debug\Chain.pdb
+C:\Alex\docs\day5  - patterns\Chain\Chain\obj\Debug\Chain.csprojResolveAssemblyReference.cache
+C:\Alex\docs\day5  - patterns\Chain\Chain\obj\Debug\Chain.exe
+C:\Alex\docs\day5  - patterns\Chain\Chain\obj\Debug\Chain.pdb

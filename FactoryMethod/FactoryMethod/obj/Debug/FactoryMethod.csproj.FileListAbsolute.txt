@@ -1,0 +1,6 @@
+C:\Alex\docs\day5  - patterns\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Alex\docs\day5  - patterns\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Alex\docs\day5  - patterns\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Alex\docs\day5  - patterns\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+C:\Alex\docs\day5  - patterns\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Alex\docs\day5  - patterns\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
