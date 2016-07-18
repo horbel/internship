@@ -1,0 +1,244 @@
+﻿body {
+    font-size: 16px;
+    /*background:url(http://img09.deviantart.net/07bb/i/2008/138/d/2/ornate_wallpaper_by_insurrectionx.jpg);*/
+}
+
+#wrapper {
+    background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+    width: 100%;
+    height: auto;
+    margin: 0;
+    /*position: relative;*/
+    font-size: 20px;
+}
+/*#wrapper >div, footer, header{
+    box-sizing:border-box;
+    border:1px solid black;
+    border-collapse:collapse;
+}*/
+h1 {
+    font-size: 30px;
+    margin: 0px;
+    margin-left: 30px;
+}
+
+#header {
+    padding-top: 10px;
+    height: auto;
+    background-color: #6b9ba1;
+    padding-bottom: 5px;
+    box-sizing: border-box;
+}
+
+#top-menu-list {
+    text-align: center;
+    margin: 5px auto;
+    width: 90%;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #b9bebe;
+}
+
+    #top-menu-list li {
+        padding-top: 10px;
+        display: inline-block;
+        margin-left: 30px;
+        font-size: 20px;
+        font-weight: bold;
+        box-sizing: border-box;
+    }
+
+        #top-menu-list li a {
+            box-sizing: border-box;
+            border-radius: 10px;
+            padding: 3px 7px;
+        }
+
+            #top-menu-list li a:hover {
+                background-color: #6d6d6d;
+            }
+
+#content1 {
+    background-color: #7de6f1;
+    width: 70%;
+    float: left;
+    height: 350px;
+}
+
+#right-menu {
+    background-color: #ce7e7e;
+    width: 30%;
+    height: 350px;
+    float: left;
+}
+
+#clear {
+    clear: both;
+    box-sizing: content-box;
+    height: 0px;
+}
+
+#content2 {
+    padding-top: 1%;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    background-color: #cbf18d;
+    box-sizing: border-box;
+}
+
+#links {
+    padding-top: 1%;
+    text-align: center;
+    box-sizing: border-box;
+    width: 100%;
+    height: 50px;
+    background-color: #efed68;
+    box-sizing: border-box;
+}
+
+
+/*RIBBON!!!*/
+.ribbon4 {
+    width:10%;
+    position: absolute;  
+    color:white;
+    font-weight:bold;
+    font-size:20px;
+    top: 25%;
+    left:0px;
+    padding: 8px 10px;
+    background: #f80e0e;
+    box-shadow: -1px 2px 4px rgba(0,0,0,0.5);
+  }
+.ribbon4:before, .ribbon4:after {
+    position: absolute;
+    content: "";
+    /*display: block;*/
+}
+.ribbon4:before {
+    width: 7px;
+    height: 100%;
+    padding: 0 0 7px;
+    top: 0;
+    left: -7px;
+    background: inherit;
+    border-radius: 5px 0 0 5px;
+}
+.ribbon4:after {
+    width: 0px;
+    height: 0px;
+    /*background: rgba(0,0,0,0.35);*/
+    bottom: 0;
+    left: 100%;
+    /*border-radius: 5px 0 0 5px;*/
+    border-top:20px solid red;
+    border-bottom:20px  solid red;
+    border-right: 20px solid transparent;
+ }
+.ribbon3 {
+    color:white;
+    font-weight:bold;
+    font-size:20px;
+  display: inline-block;
+  position: absolute;
+  width: 150px;
+  height: 50px;
+  line-height: 50px;
+  padding-left: 15px;
+  background: #59324C;
+  left: 88%;
+  top: 25%;
+}
+.ribbon3:before, .ribbon3:after {
+    content: "";
+    position: absolute;
+}
+.ribbon3:after {
+  height: 0;
+  width: 0;
+  border-bottom: 8px solid black;
+  border-left: 8px solid transparent;
+  top: -8px;
+  right: 0;
+}
+.ribbon3:before {
+  height: 0;
+  width: 0;
+  border-top: 25px solid transparent;
+  border-bottom: 25px solid transparent;
+  border-right: 25px solid #59324C;
+  left: -23px;
+}
+
+/*main styles*/
+#wrapper-all {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#head {
+    position:relative;
+    background-color: #d9d9d9;
+    width: 100%;
+    height: 100px;
+    margin-bottom: 1%;
+    text-align: center;
+    font-size: 25px;
+    color: #0e9fe9;
+    padding-top: 2px;
+    box-sizing: border-box;
+}
+
+#left {
+    float: left;
+    width: 50%;
+}
+
+#right {
+    float: left;
+    height: 500px;
+    width: 50%;
+    padding-top: 5%;
+    padding-left: 2%;
+    padding-right: 3%;
+  
+    box-sizing: border-box;
+}
+
+#right-text {
+    text-indent: 1.5em;
+    padding-left: 2%;
+    border-left: 5px solid silver;
+    text-align: justify;
+    font-size: 30px;
+    box-sizing: border-box;
+}
+#footer{
+    margin-top:1%;
+    height:70px;
+    width:100%;
+}
+#footer button{
+    background:linear-gradient( 200deg, #3addd8, #3c74e6 ); 
+    width:50%;
+    height:70px;
+    float:left;
+    color:azure;
+    font-size:25px;
+    padding-left:5%;
+    text-align:left;
+    box-sizing:border-box;
+}
+#hearts{
+    padding-top:1.5%;
+    box-sizing:border-box;
+    text-align:center;
+    width:50%;
+    height:50px;
+    float:left;
+}
+#hearts img{
+    margin-left:10%;
+}
