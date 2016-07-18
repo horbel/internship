@@ -1,2 +1,68 @@
-﻿body {
+﻿body{
+
 }
+ul {
+
+    list-style-type:none;
+    display:inline-block;
+}
+#wrapper{
+    width:100%;
+    height:500px;
+    position:relative;
+    background-color:azure;
+}
+.ball {
+    position:absolute;        
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    animation: run 2s infinite ease-in-out;
+}
+#ball1{  
+    top:50px;
+    left:50px;
+    background-color:#3fad36;
+}
+#ball2{       
+    top:50px;
+    left:150px;
+    background-color:#b97a23;
+}
+#ball3{  
+    background-color:#f85400;
+    top:125px;
+    left:200px;
+}
+#ball4{  
+    background-color:#65228e;
+    top:200px;
+    left:150px;
+}
+#ball5{  
+    background-color:purple;  
+    top:200px;
+    left:50px;
+}
+#ball6{  
+    background-color:aqua; 
+    top:125px;
+    left:0px;
+}
+@keyframes run{
+    0%{
+        transform:translateX(50%);
+    }
+    25%{
+        transform:translate(50% 50%);
+    }
+     50%{
+        transform:translate(-50% 50%);
+    }
+     75%{
+        transform:translateX(-50%);
+    }100%{
+        transform:translateY(-50%);
+    }
+}
+
