@@ -8,9 +8,9 @@ namespace TryCore.Model
 {
     public class ProductContext : DbContext
     {
-        DbSet<Product> Products { get; set; }
-        DbSet<Order> Orders { get; set; }
-        DbSet<Category> Categories { get; set; }
+        public DbSet<Product> Products { get; set; }
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<Category> Categories { get; set; }
 
         public ProductContext(DbContextOptions<ProductContext> options) :
             base(options)
