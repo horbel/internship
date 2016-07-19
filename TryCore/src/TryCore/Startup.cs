@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using Microsoft.EntityFrameworkCore;
+using TryCore.Model;
 
 namespace TryCore
 {
@@ -22,7 +24,7 @@ namespace TryCore
 
             if (env.IsDevelopment())
             {
-                // This will push telemetry data through Application Insights pipeline faster, allowing you to view results immediately.
+                
                 builder.AddApplicationInsightsSettings(developerMode: true);
             }
             Configuration = builder.Build();
@@ -30,10 +32,11 @@ namespace TryCore
 
         public IConfigurationRoot Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
+       
         public void ConfigureServices(IServiceCollection services)
         {
-            // Add framework services.
+            string connection = Configuration.GetConnectionString("DefaultConnection");
+            services.AddDbContext<ProductContext>(options => options.UseSqlServer(connection));
             services.AddApplicationInsightsTelemetry(Configuration);
 
             services.AddMvc();

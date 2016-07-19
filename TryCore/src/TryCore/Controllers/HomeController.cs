@@ -7,11 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace TryCore.Controllers
 {
     public class HomeController : Controller
-    {
-        public IActionResult CSSTest()
-        {
-            return View();
-        }
+    {       
         public IActionResult Index()
         {
             return View();
