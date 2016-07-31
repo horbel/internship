@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="switcher">Switch activity!</string>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="ApplicationName">SwitchActivity</string>
+  <string name="AddNewFrag">Switch fragment</string>
+  <string name="fr1">fr1 click</string>
+  <string name="fr2">fr2 click</string>
+</resources>

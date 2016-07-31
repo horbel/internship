@@ -1,0 +1,16 @@
+SwitchActivity.Activity2, SwitchActivity;md52d96ce39f444a47a4aed51055c107db9.Activity2
+SwitchActivity.Activity2, SwitchActivity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52d96ce39f444a47a4aed51055c107db9.Activity2
+SwitchActivity.Activity2;md52d96ce39f444a47a4aed51055c107db9.Activity2
+switchactivity.Activity2;md52d96ce39f444a47a4aed51055c107db9.Activity2
+SwitchActivity.Fragment1, SwitchActivity;md52d96ce39f444a47a4aed51055c107db9.Fragment1
+SwitchActivity.Fragment1, SwitchActivity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52d96ce39f444a47a4aed51055c107db9.Fragment1
+SwitchActivity.Fragment1;md52d96ce39f444a47a4aed51055c107db9.Fragment1
+switchactivity.Fragment1;md52d96ce39f444a47a4aed51055c107db9.Fragment1
+SwitchActivity.Fragment2, SwitchActivity;md52d96ce39f444a47a4aed51055c107db9.Fragment2
+SwitchActivity.Fragment2, SwitchActivity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52d96ce39f444a47a4aed51055c107db9.Fragment2
+SwitchActivity.Fragment2;md52d96ce39f444a47a4aed51055c107db9.Fragment2
+switchactivity.Fragment2;md52d96ce39f444a47a4aed51055c107db9.Fragment2
+SwitchActivity.MainActivity, SwitchActivity;md52d96ce39f444a47a4aed51055c107db9.MainActivity
+SwitchActivity.MainActivity, SwitchActivity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52d96ce39f444a47a4aed51055c107db9.MainActivity
+SwitchActivity.MainActivity;md52d96ce39f444a47a4aed51055c107db9.MainActivity
+switchactivity.MainActivity;md52d96ce39f444a47a4aed51055c107db9.MainActivity
