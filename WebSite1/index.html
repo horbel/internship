@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+  
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body ng-controller="personController">
+    <div class="panel">
+        <div class="form-inline">
+            <div class="form-group">
+                <div class="col-md-8">
+                    <input class="form-control" ng-model="text" placeholder="Enter text to filter persons" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Last Name</th>
+                <th>First Name</th>
+                <th>Age</th>
+                <th>City</th>
+                <th><select class="form-control" ng-model="currentPhoneType" ng-options="type.title for type in phoneTypeOptions">Phone number</select></th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="person in persons">
+                <td>{{person.lastName}}</td>
+                <td>{{person.firstName}}</td>
+                <td>{{person.age}}</td>
+                <td>{{person.address.city}}</td>
+                <td>{{person.phoneNumber[currentPhoneType.id].number}}</td>
+                <td>
+                    <button type="button" ng-click="removePerson(person)">Delete</button>
+                    <button data-toggle="modal" data-target="#myModal" class="btn-default" ng-click="showEditPersonForm(person)">Edit</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+
+    <button class="btn-primary" ng-click="showCreatePersonForm()">Add new person</button>
+
+
+
+
+
+    <script src="Scripts/angular.min.js"></script>
+    <script src="Scripts/angular-strap.tpl.js"></script>
+    <script src="Scripts/angular-strap.tpl.min.js"></script>
+
+    <script src="main.js"></script>
+</body>
+</html>

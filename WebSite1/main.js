@@ -1,23 +1,23 @@
 ﻿/// <reference path="Scripts/angular.min.js" />
 //'mgcrea.ngStrap'
 ///
-var myApp = angular.module('myApp', ['mgcrea.ngStrap']);
-myApp.config(function ($routeProvider, $locationProvider) {
-    $locationProvider.html5Mode(true).hashPrefix('*');
-       $routeProvider
-        .when('/home', {
-            templateUrl: '/index.html',
-            controller: 'personController'
-        })
-    .when('/newPersonForm', {
-        templateUrl: '/efTemplate.html',
-        controller: 'efPersonController'
-    })
-    .when('/editPersonForm', {
-        templateUrl: '/editForm.html',
-        controller: 'efPersonController'
-    });
-})
+var myApp = angular.module('myApp', []);
+//myApp.config(function ($routeProvider, $locationProvider) {
+//    $locationProvider.html5Mode(true).hashPrefix('*');
+//    $routeProvider
+//     .when('/home', {
+//         templateUrl: '/index.html',
+//         controller: 'personController'
+//     })
+// .when('/newPersonForm', {
+//     templateUrl: '/efTemplate.html',
+//     controller: 'efPersonController'
+// })
+// .when('/editPersonForm', {
+//     templateUrl: '/editForm.html',
+//     controller: 'efPersonController'
+// });
+//})
 myApp.controller('personController', function ($scope, $http, $location) {
     $http.get('persons.json').success(function (data) {
         $scope.persons = data;
