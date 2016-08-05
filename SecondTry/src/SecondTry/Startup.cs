@@ -71,6 +71,7 @@ namespace SecondTry
                     name: "default",
                     template: "{controller=Blogs}/{action=Index}/{id?}");
             });
+            //SampleData.Initialize(app.ApplicationServices);
         }
     }
 }
