@@ -1,0 +1,11 @@
+C:\Alex\docs\day12_android\IOSFirst\IOSFirst\bin\iPhone\Debug\IOSFirst.exe
+C:\Alex\docs\day12_android\IOSFirst\IOSFirst\bin\iPhone\Debug\IOSFirst.pdb
+C:\Alex\docs\day12_android\IOSFirst\IOSFirst\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Alex\docs\day12_android\IOSFirst\IOSFirst\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Alex\docs\day12_android\IOSFirst\IOSFirst\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Alex\docs\day12_android\IOSFirst\IOSFirst\obj\iPhone\Debug\optimized\
+C:\Alex\docs\day12_android\IOSFirst\IOSFirst\obj\iPhone\Debug\IOSFirst.csprojResolveAssemblyReference.cache
+C:\Alex\docs\day12_android\IOSFirst\IOSFirst\obj\iPhone\Debug\IOSFirst.exe
+C:\Alex\docs\day12_android\IOSFirst\IOSFirst\obj\iPhone\Debug\IOSFirst.pdb
+C:\Alex\docs\day12_android\IOSFirst\IOSFirst\obj\iPhone\Debug\IOSFirst.exe.mdb
+C:\Alex\docs\day12_android\IOSFirst\IOSFirst\bin\iPhone\Debug\IOSFirst.exe.mdb

@@ -1,0 +1,16 @@
+C:\Alex\docs\day12_android\IOSFirst\IOSFisrt\bin\iPhone\Debug\IOSFisrt.exe
+C:\Alex\docs\day12_android\IOSFirst\IOSFisrt\bin\iPhone\Debug\IOSFisrt.pdb
+C:\Alex\docs\day12_android\IOSFirst\IOSFisrt\obj\iPhone\Debug\ibtool\LaunchScreen.nib
+C:\Alex\docs\day12_android\IOSFirst\IOSFisrt\obj\iPhone\Debug\ibtool\Main.storyboardc\BYZ-38-t0r-view-8bC-Xf-vdC.nib
+C:\Alex\docs\day12_android\IOSFirst\IOSFisrt\obj\iPhone\Debug\ibtool\Main.storyboardc\Info.plist
+C:\Alex\docs\day12_android\IOSFirst\IOSFisrt\obj\iPhone\Debug\ibtool\Main.storyboardc\UIViewController-BYZ-38-t0r.nib
+C:\Alex\docs\day12_android\IOSFirst\IOSFisrt\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Alex\docs\day12_android\IOSFirst\IOSFisrt\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Alex\docs\day12_android\IOSFirst\IOSFisrt\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Alex\docs\day12_android\IOSFirst\IOSFisrt\obj\iPhone\Debug\optimized\
+C:\Alex\docs\day12_android\IOSFirst\IOSFisrt\obj\iPhone\Debug\optimized\Entitlements.plist
+C:\Alex\docs\day12_android\IOSFirst\IOSFisrt\obj\iPhone\Debug\IOSFisrt.csprojResolveAssemblyReference.cache
+C:\Alex\docs\day12_android\IOSFirst\IOSFisrt\obj\iPhone\Debug\IOSFisrt.exe
+C:\Alex\docs\day12_android\IOSFirst\IOSFisrt\obj\iPhone\Debug\IOSFisrt.pdb
+C:\Alex\docs\day12_android\IOSFirst\IOSFisrt\obj\iPhone\Debug\IOSFisrt.exe.mdb
+C:\Alex\docs\day12_android\IOSFirst\IOSFisrt\bin\iPhone\Debug\IOSFisrt.exe.mdb

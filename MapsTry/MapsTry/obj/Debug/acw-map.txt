@@ -1,0 +1,4 @@
+MapsTry.MainActivity, MapsTry;md52eac4eddf27bf668f08b5041fe4e9181.MainActivity
+MapsTry.MainActivity, MapsTry, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52eac4eddf27bf668f08b5041fe4e9181.MainActivity
+MapsTry.MainActivity;md52eac4eddf27bf668f08b5041fe4e9181.MainActivity
+mapstry.MainActivity;md52eac4eddf27bf668f08b5041fe4e9181.MainActivity
